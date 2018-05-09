@@ -17,8 +17,8 @@ With this software you can download high-qualiy music and enjoy.
 
 # Download Links
 - Windows installer: [DeezLoader-3.1.2-win-64&32-installer.exe](https://mega.nz/#!yCwWDKjZ!oGZ-BfE1eiL4NZyt4tJ-lJ1UE81NsCWJEoJG2kASYoM)
-- Windows x64 portable: [DeezLoader-3.1.2-win-64-portable.7z](https://mega.nz/#!3aYUkSxL!Uspl_kEOe5-J9DKZw22Y8uNWn-yzbYnKH1sIKJYqBH8)
-- Windows x86 portable: [DeezLoader-3.1.2-win-32-portable.7z]()
+- Windows x64 portable: [DeezLoader-3.1.2-win-64-portable.zip](https://mega.nz/#!3aYUkSxL!Uspl_kEOe5-J9DKZw22Y8uNWn-yzbYnKH1sIKJYqBH8)
+- Windows x86 portable: [DeezLoader-3.1.2-win-32-portable.zip]()
 - Linux  [DeezLoader-3.1.2-linux.AppImage](https://mega.nz/#!SXIhAB6B!6xtKyB_TZD5fLpV7ub8BBll8wiLiKYiSqvSGM8Oe8YI)
 
 - Mac x64: [DeezLoader-3.1.2-mac-64.dmg]()
