@@ -1,4 +1,5 @@
-# DeezLoader Reborn V3.1.2 final
+# DeezLoader Reborn V3.1.2 Unofficial
+
 DeezLoader Reborn is here to replace the old DeezLoader V2.3.1.<br/>
 With this software you can download high-qualiy music and enjoy.
 
