@@ -1,4 +1,5 @@
-# DeezLoader Reborn V3.1.2 final
+# DeezLoader Reborn V3.1.2 Unofficial
+
 DeezLoader Reborn is here to replace the old DeezLoader V2.3.1.<br/>
 With this software you can download high-qualiy music and enjoy.
 
@@ -16,17 +17,28 @@ With this software you can download high-qualiy music and enjoy.
 
 # Download Links
 - Windows installer: [DeezLoader-3.1.2-win-64&32-installer.exe](https://mega.nz/#!yCwWDKjZ!oGZ-BfE1eiL4NZyt4tJ-lJ1UE81NsCWJEoJG2kASYoM)
+<<<<<<< HEAD
 - Windows x64 portable: [DeezLoader-3.1.2-win-64-portable.7z](https://mega.nz/#!3aYUkSxL!Uspl_kEOe5-J9DKZw22Y8uNWn-yzbYnKH1sIKJYqBH8)
 - Windows x86 portable: [DeezLoader-3.1.2-win-32-portable.7z]()
 - Linux  [DeezLoader-3.1.2-linux.AppImage](https://mega.nz/#!SXIhAB6B!6xtKyB_TZD5fLpV7ub8BBll8wiLiKYiSqvSGM8Oe8YI)
 
 - Mac x64: [DeezLoader-3.1.2-mac-64.dmg]()
+=======
+- Windows x64 portable: [DeezLoader-3.1.2-win-64-portable.zip](https://mega.nz/#!3aYUkSxL!Uspl_kEOe5-J9DKZw22Y8uNWn-yzbYnKH1sIKJYqBH8)
+- Windows x86 portable: [DeezLoader-3.1.2-win-32-portable.zip]()
+- Linux  [DeezLoader-3.1.2-linux.AppImage](https://mega.nz/#!SXIhAB6B!6xtKyB_TZD5fLpV7ub8BBll8wiLiKYiSqvSGM8Oe8YI)
+- Mac x64: [DeezLoader-3.1.2-mac-64.dmg](https://mega.nz/#!uWokSLpK!NAqBMerhh_WrCvgWjF_KzhYrH5uUzUjfiEW1sHWnbkw)
+>>>>>>> d6f3dcba3b2892a27984711178f645d676ec0a26
 
 # Virus total
 - Windows installer: [DeezLoader-3.1.2-win-64&32-installer.exe](https://www.virustotal.com/#/file/8d794a8650cde5714efe7768e27e11017ff8aa92af8f3496408da596162098bf)
 - Linux : [DeezLoader-3.1.2-linux.AppImage](https://www.virustotal.com/#/file/c01ea0f36b04c60e7c229b764356a3f4caf012c411ddf2a1624e5d9c684a89c8)
+<<<<<<< HEAD
 
 - Mac x64: [DeezLoader-3.1.2-mac-64.dmg]()
+=======
+- Mac x64: [DeezLoader-3.1.2-mac-64.dmg](https://www.virustotal.com/#/file/cf24e165933092beff8e93dfa4188e4f51658c135b3d5147b23eb06b1ef557e2)
+>>>>>>> d6f3dcba3b2892a27984711178f645d676ec0a26
 
 # Donations
 - **BTC/BCH:** 1A25gu2vMXLfQBYArYLMBcTpnuwPiKW6vL
