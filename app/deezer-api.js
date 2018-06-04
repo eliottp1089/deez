@@ -82,7 +82,7 @@ Deezer.prototype.init = function (username, password, callback) {
 			}, (function (err, res, body) {
 				if (!err && res.statusCode == 200) {
 					// var regex = new RegExp(/checkForm\s*=\s*[\"|'](.*)[\"|']/g); // old regex
-					var regex = new RegExp(/"api_key":"([^",]*)/g);
+					var regex = new RegExp(/((?!"api_key\\":\\").*(?=\\"))/g);
 					var _token = regex.exec(body);
 
 					if (_token instanceof Array && _token[1]) {
